@@ -99,3 +99,7 @@ security.cloudflare-dns.com
 tor.cloudflare-dns.com
 use-application-dns.net
 www.digitale-gesellschaft.ch
+# https://adguard.com/en/adguard-dns/setup.html
+dns.adguard.com
+dns-family.adguard.com
+dns-unfiltered.adguard.com
